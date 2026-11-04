@@ -1,0 +1,76 @@
+.Search{
+    padding: 2px;
+    border: 1px solid black;
+     min-width: 90%;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+.all-paste{
+    border: 1px solid gray;
+    max-width: 90%;
+    margin: 25px 56px 0px 56px;
+    padding: 10px;
+    text-align: left;
+    padding-left: 15px;
+    font-weight: bold;
+    color: black;
+    font-size: 40px;
+    background-color: rgb(251, 248, 248);
+    
+
+}
+.Main-paste-box{
+    border: 1px solid gray;
+    max-width: 90%;
+    margin: 0px 56px 56px;
+    
+    
+}
+.Card{
+    display: flex;
+    flex-direction: column;   
+    max-width: 70%;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: white;
+    
+    
+}
+.subCard-title{
+   text-align: left;
+    padding-left: 15px;
+    font-weight: bold;
+    color: black;
+    font-size: 25px;
+}
+.SubCard-content{
+    text-align: left;
+    padding-left: 15px;
+    color: black;
+}
+.subCard{
+    border: 1px solid black;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.Cardbtn{
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    justify-content: end;
+     padding-bottom: 10px;
+    
+    
+    
+}
+.delete-btn{
+    cursor: pointer;
+  
+}
+.copy-btn{
+   cursor: pointer;
+}
+.share-btn{
+    cursor: pointer;
+}

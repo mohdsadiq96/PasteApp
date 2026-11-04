@@ -1,0 +1,31 @@
+
+.HomeD{
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid rgb(235, 235, 235);
+    margin-top: 40px;
+    background-color: white;
+    width: 70%;
+    
+    
+    
+}
+.btn
+{
+    border: 2px solid rgb(57, 4, 247);
+    padding: 2px;
+    border-radius: 10px;
+    background:rgb(57, 4, 247);
+    cursor: pointer;
+    margin-left: 30px;
+    color: white;
+    font-weight: bold;
+}
+.textArea{
+    border: 1px solid rgb(235, 235, 235);
+    min-width: 85%;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px 10px;
+}

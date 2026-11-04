@@ -1,0 +1,29 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+   
+}
+
+.Navbar{
+    background : rgb(8, 2, 42);
+    align-items: center;
+    justify-content:space-around;
+    padding: 13px;
+    color: rgb(241, 241, 244);
+    font-weight: bold;
+    display: flex;
+    gap: 5rem;
+    width: 100%;
+}
+.Name-app{
+    display: flex;
+    gap: 20px;
+    /* border: 2px solid red; */
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: flex-start;
+    font-size: larger;
+    font-weight: bold;
+
+}
